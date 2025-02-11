@@ -1,4 +1,4 @@
-**### MPESA PAYMENT SETUP**
+**MPESA PAYMENT SETUP**
 I used Safaricom Daraja API for handling payments
 
 **Step 1: Run the Access Token Script**
@@ -50,4 +50,4 @@ ngrok http 3000
 Copy the generated public URL and use it as your CallBackURL.
 
 
-**#### Once STK push works and MPESA sends a response, you're good!!*
+**Once STK push works and MPESA sends a response, you're good!!*
